@@ -31,3 +31,5 @@ I don't mind cuddling / hiding. I'm AFK most of the time anyway.
 I use perfect grammar and punctuation. Not because I'm mad or anything.
 <p align="center">
 Number one lover of bats. I'm normal about them I swear.
+  
+![pv](https://komarev.com/ghpvc/?username=80sVHS&color=811414&label=View+count)

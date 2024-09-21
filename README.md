@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://intruderalert.carrd.co/assets/images/image04.png?v=879254c6" width="225" height="150" border="10"/>
 <p align="center">
-<em>The cog in th<ins>e machine.<ins><em>
+$\color{#921616}{\textbf{The cog in the machine.}}$
 </p>
 
 <p align="center">

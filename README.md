@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://intruderalert.carrd.co/assets/images/image04.png?v=879254c6" width="225" height="150" border="10"/>
+<img src="https://intruderalert.carrd.co/assets/images/image01.png?v=9fadd0d3)" width="225" height="150" border="10"/>
 <p align="center">
 $\color{#921616}{\textbf{The cog in the machine.}}$
 </p>

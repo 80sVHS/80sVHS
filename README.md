@@ -5,7 +5,7 @@ $\color{#921616}{\textbf{The cog in the machine.}}$
 </p>
 
 <p align="center">
-<img src="https://intruderalert.carrd.co/assets/images/image07.png?v=879254c6" width="400" height="55" border+"10"/>
+<img src="https://files.catbox.moe/ys15gm.png"/>
 
 <p align="center">
 Call me Adam or Aradus.

@@ -14,7 +14,7 @@ It ／ He only.
   
 ㅤ
 <p align="center">
-Part of the VHS Collection; the main system co-host.
+Part of the VHS Collection; the system host.
 <p align="center">
 Socially awkward + anxious. You'll probably have to interact with me first.
 
